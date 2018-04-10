@@ -1,5 +1,5 @@
-# **Dodge Mini-game**
-### **Troy Clemmer**
+# Dodge Mini-game
+### Troy Clemmer 2013
 
 **Play at:** https://troyclemmer.github.io/dodgeminigame/
 
