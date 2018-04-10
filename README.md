@@ -1,6 +1,6 @@
 # Dodge Mini-game
-Troy Clemmer
+### Troy Clemmer
 
-Play at: https://troyclemmer.github.io/dodgeminigame/
+**Play at:** https://troyclemmer.github.io/dodgeminigame/
 
-note: high-score table doesn't work
+###### *note: high-score table doesn't work*
